@@ -1,4 +1,9 @@
 # Import necessary libraries
+import sys
+from pyscript import display
+
+display(sys.version)
+
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
