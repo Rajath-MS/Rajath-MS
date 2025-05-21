@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @Rajath-MS
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Rajath-MS/Rajath-MS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Full Stack Web Development,AI-ML and OOPs
+- 🌱 I’m currently learning React.js
+- 📫 How to reach me mail @ rajathms12@gmail.com 
+- 😄 Pronouns: He
+- ⚡ Fun fact: Coding is all about writing what is in mind in a Computer Understandable Manner while Programming is the use of 7 steps of Problem Solving Methology to solve a problem.So be a Programmer not a Coder cause Coders are easily replacable but Programmers are always the chosen ones by higher power
